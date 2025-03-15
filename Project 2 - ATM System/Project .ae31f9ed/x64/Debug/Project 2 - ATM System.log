@@ -1,0 +1,6 @@
+﻿  Project 2 - ATM System.cpp
+D:\Program Files\Microsoft Visual Studio\MY projects in visual studio\Learning\(L) C++\Algorithm level (4)\Project 2 - ATM System\Project 2 - ATM System.cpp(48,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Program Files\Microsoft Visual Studio\MY projects in visual studio\Learning\(L) C++\Algorithm level (4)\Project 2 - ATM System\Project 2 - ATM System.cpp(379,1): warning C4715: 'NormalWithDrawTransaction': not all control paths return a value
+D:\Program Files\Microsoft Visual Studio\MY projects in visual studio\Learning\(L) C++\Algorithm level (4)\Project 2 - ATM System\Project 2 - ATM System.cpp(442,1): warning C4715: 'DepositTransaction': not all control paths return a value
+D:\Program Files\Microsoft Visual Studio\MY projects in visual studio\Learning\(L) C++\Algorithm level (4)\Project 2 - ATM System\Project 2 - ATM System.cpp(541,1): warning C4715: 'ChangeOldPassword': not all control paths return a value
+  Project 2 - ATM System.vcxproj -> D:\Program Files\Microsoft Visual Studio\MY projects in visual studio\Learning\(L) C++\Algorithm level (4)\Project 2 - ATM System\x64\Debug\Project 2 - ATM System.exe
